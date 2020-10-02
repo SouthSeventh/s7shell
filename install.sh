@@ -19,8 +19,6 @@ sudo apt-get install docker
 sudo apt-get update
 sudo apt-get install figlet
 sudo apt-get update
-sudo apt-get install git
-sudo apt-get update
 sudo apt-get install python3
 cd ~
 clear
