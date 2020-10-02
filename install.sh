@@ -20,7 +20,8 @@ sudo apt-get update
 sudo apt-get install figlet
 sudo apt-get update
 sudo apt-get install python3
-cd ~
+# add more stuff to install
+cd /
 clear
 echo "
 *********************************************************************
